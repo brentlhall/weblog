@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>Feed</title>
+ <link>/</link>
+ <description></description>
+ <lastBuildDate>Wed, 03 Sep 2025 21:38:10 -0500</lastBuildDate>
+ <language>en-us</language>
+ <item>
+<title>Daily_20250903</title>
+<link>/daily_20250903.html</link>
+<pubDate>Wed, 03 Sep 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Learning to Scroll</title>
+<link>/learning_to_scoll.html</link>
+<pubDate>Sun, 31 Aug 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Daily_20250701</title>
+<link>/daily_20250701.html</link>
+<pubDate>Tue, 01 Jul 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>You Have Choices</title>
+<link>/You_Have_Choices.html</link>
+<pubDate>Mon, 30 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Daily_20250629</title>
+<link>/daily_20250629.html</link>
+<pubDate>Sun, 29 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>A Bit About Myself</title>
+<link>/A_Bit_About_Myself.html</link>
+<pubDate>Sat, 28 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Hello World</title>
+<link>/helloWorld.html</link>
+<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Why I Want to Write</title>
+<link>/Why-I_Want_to_Write.html</link>
+<pubDate>Sat, 25 Feb 2023 00:00:00 -0600</pubDate>
+</item>
+ <item>
+<title>To Whom It May Concern</title>
+<link>/To_Whom_It_May_Concern.html</link>
+<pubDate>Mon, 14 Sep 2015 00:00:00 -0500</pubDate>
+</item>
+</channel>
+</rss>

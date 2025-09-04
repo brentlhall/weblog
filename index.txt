@@ -1,0 +1,54 @@
+Thoughts, Ideas, and Observations
+=================================
+Brent Hall's Blog
+=================
+September 3, 2025
+
+Daily_20250903
+==============
+09/03/2025
+/daily_20250903.html
+
+Learning to Scroll
+==================
+08/31/2025
+/learning_to_scoll.html
+
+Daily_20250701
+==============
+07/01/2025
+/daily_20250701.html
+
+You Have Choices
+================
+06/30/2025
+/You_Have_Choices.html
+
+Daily_20250629
+==============
+06/29/2025
+/daily_20250629.html
+
+A Bit About Myself
+==================
+06/28/2025
+/A_Bit_About_Myself.html
+
+Hello World
+===========
+06/22/2025
+/helloWorld.html
+
+Why I Want to Write
+===================
+02/25/2023
+/Why-I_Want_to_Write.html
+
+To Whom It May Concern
+======================
+09/14/2015
+/To_Whom_It_May_Concern.html
+Questions or Comments?
+Email me	brentlhall@gmail.com
+Follow me on X	https://x.com/brentlhall
+Built with Scroll v178.2.1
