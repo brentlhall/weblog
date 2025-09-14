@@ -1,8 +1,20 @@
 Thoughts, Ideas, and Observations
 =================================
+I write for myself and share with you
+=====================================
 Brent Hall's Blog
 =================
-September 3, 2025
+September 14, 2025
+
+Use Your Phone for Reading
+==========================
+09/14/2025
+/Use_Your_Phone_for_Reading.html
+
+News, an observation
+====================
+09/07/2025
+/the_news.html
 
 Daily_20250903
 ==============
@@ -49,6 +61,8 @@ To Whom It May Concern
 09/14/2015
 /To_Whom_It_May_Concern.html
 Questions or Comments?
-Email me	brentlhall@gmail.com
-Follow me on X	https://x.com/brentlhall
-Built with Scroll v178.2.1
+Email me	brentlhall@gmail.com 
+Follow me on X	
+ https://x.com/brentlhall Follow me on X
+Built with Scroll
+ https://github.com/breck7/scroll Built with Scroll
