@@ -1,0 +1,13 @@
+date 
+title 
+tags All
+header.scroll
+mediumColumn
+center
+
+endSnippet
+
+
+****
+
+footer.scroll

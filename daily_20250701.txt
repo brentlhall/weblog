@@ -8,6 +8,8 @@ I walked down to check the mail and walked the stairs to get some exercise. The 
 I think I'll make a habit of going up and down the building's stairs.
 ⁂
 Questions or Comments?
-Email me	brentlhall@gmail.com
-Follow me on X	https://x.com/brentlhall
-Built with Scroll v178.2.1
+Email me	brentlhall@gmail.com 
+Follow me on X	
+ https://x.com/brentlhall Follow me on X
+Built with Scroll
+ https://github.com/breck7/scroll Built with Scroll

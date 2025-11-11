@@ -12,6 +12,8 @@ I'm exited to learn more and build the habit of writing in scroll.
 ⁂
 
 Questions or Comments?
-Email me	brentlhall@gmail.com
-Follow me on X	https://x.com/brentlhall
-Built with Scroll v178.2.1
+Email me	brentlhall@gmail.com 
+Follow me on X	
+ https://x.com/brentlhall Follow me on X
+Built with Scroll
+ https://github.com/breck7/scroll Built with Scroll

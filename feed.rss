@@ -4,8 +4,23 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Wed, 03 Sep 2025 21:49:45 -0500</lastBuildDate>
+ <lastBuildDate>Mon, 10 Nov 2025 21:26:26 -0600</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Gracie's Carrot Cake</title>
+<link>/gracies.carrot.cake.html</link>
+<pubDate>Sat, 08 Nov 2025 00:00:00 -0600</pubDate>
+</item>
+ <item>
+<title>Use Your Phone for Reading</title>
+<link>/Use_Your_Phone_for_Reading.html</link>
+<pubDate>Sun, 14 Sep 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>News, an observation</title>
+<link>/the_news.html</link>
+<pubDate>Sun, 07 Sep 2025 00:00:00 -0500</pubDate>
+</item>
  <item>
 <title>Daily_20250903</title>
 <link>/daily_20250903.html</link>
@@ -13,7 +28,7 @@
 </item>
  <item>
 <title>Learning to Scroll</title>
-<link>/learning_to_scoll.html</link>
+<link>/learning_to_scroll.html</link>
 <pubDate>Sun, 31 Aug 2025 00:00:00 -0500</pubDate>
 </item>
  <item>
@@ -35,6 +50,16 @@
 <title>A Bit About Myself</title>
 <link>/A_Bit_About_Myself.html</link>
 <pubDate>Sat, 28 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Hello World.sync-conflict-20251110-135716-ZVR65MC</title>
+<link>/helloWorld.sync-conflict-20251110-135716-ZVR65MC.html</link>
+<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Hello World.sync-conflict-20251110-135707-ZVR65MC</title>
+<link>/helloWorld.sync-conflict-20251110-135707-ZVR65MC.html</link>
+<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
 </item>
  <item>
 <title>Hello World</title>

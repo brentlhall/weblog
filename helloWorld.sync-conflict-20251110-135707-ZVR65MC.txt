@@ -1,18 +1,19 @@
-date 6-22-2025
-title Hello World
-tags All
-header.scroll
-mediumColumn
-center
+Hello World.sync-conflict-20251110-135707-ZVR65MC
+=================================================
+June 22, 2025
+
 This is my first article in this blog. This is my second attempt at blogging with Scroll.
-endSnippet
 My first attempt was less than productive mainly because I attempted to take a short cut by copying from an existing scroll to create a template.
 To say the least, it didn't work and I deleted it.
 This time, I ran `scroll init` in a new folder and I've edited the created files little by little. So far, everything is working just fine.
 I'm exited to learn more and build the habit of writing in scroll.
 *Wish me luck!*
 
+⁂
 
-****
-
-footer.scroll
+Questions or Comments?
+Email me	brentlhall@gmail.com 
+Follow me on X	
+ https://x.com/brentlhall Follow me on X
+Built with Scroll
+ https://github.com/breck7/scroll Built with Scroll
