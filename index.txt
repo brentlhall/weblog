@@ -6,6 +6,11 @@ Brent Hall's Blog
 =================
 September 14, 2025
 
+Gracie's Carrot Cake
+====================
+11/08/2025
+/gracies.carrot.cake.html
+
 Use Your Phone for Reading
 ==========================
 09/14/2025
@@ -24,7 +29,7 @@ Daily_20250903
 Learning to Scroll
 ==================
 08/31/2025
-/learning_to_scoll.html
+/learning_to_scroll.html
 
 Daily_20250701
 ==============
@@ -45,6 +50,16 @@ A Bit About Myself
 ==================
 06/28/2025
 /A_Bit_About_Myself.html
+
+Hello World.sync-conflict-20251110-135716-ZVR65MC
+=================================================
+06/22/2025
+/helloWorld.sync-conflict-20251110-135716-ZVR65MC.html
+
+Hello World.sync-conflict-20251110-135707-ZVR65MC
+=================================================
+06/22/2025
+/helloWorld.sync-conflict-20251110-135707-ZVR65MC.html
 
 Hello World
 ===========
