@@ -4,7 +4,7 @@ I write for myself and share with you
 =====================================
 Brent Hall's Blog
 =================
-November 10, 2025
+September 14, 2025
 
 Gracie's Carrot Cake
 ====================
@@ -50,6 +50,11 @@ A Bit About Myself
 ==================
 06/28/2025
 /A_Bit_About_Myself.html
+
+Hello World.sync-conflict-20251110-215710-ZVR65MC
+=================================================
+06/22/2025
+/helloWorld.sync-conflict-20251110-215710-ZVR65MC.html
 
 Hello World.sync-conflict-20251110-135716-ZVR65MC
 =================================================
