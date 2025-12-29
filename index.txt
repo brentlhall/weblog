@@ -6,6 +6,11 @@ Brent Hall's Blog
 =================
 September 14, 2025
 
+It Happened Again
+=================
+12/28/2025
+/it_happened_again.html
+
 Gracie's Carrot Cake
 ====================
 11/08/2025
@@ -50,21 +55,6 @@ A Bit About Myself
 ==================
 06/28/2025
 /A_Bit_About_Myself.html
-
-Hello World.sync-conflict-20251110-215710-ZVR65MC
-=================================================
-06/22/2025
-/helloWorld.sync-conflict-20251110-215710-ZVR65MC.html
-
-Hello World.sync-conflict-20251110-135716-ZVR65MC
-=================================================
-06/22/2025
-/helloWorld.sync-conflict-20251110-135716-ZVR65MC.html
-
-Hello World.sync-conflict-20251110-135707-ZVR65MC
-=================================================
-06/22/2025
-/helloWorld.sync-conflict-20251110-135707-ZVR65MC.html
 
 Hello World
 ===========

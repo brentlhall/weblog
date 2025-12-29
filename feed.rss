@@ -4,8 +4,13 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Tue, 11 Nov 2025 11:47:02 -0600</lastBuildDate>
+ <lastBuildDate>Sun, 28 Dec 2025 19:36:22 -0600</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>It Happened Again</title>
+<link>/it_happened_again.html</link>
+<pubDate>Sun, 28 Dec 2025 00:00:00 -0600</pubDate>
+</item>
  <item>
 <title>Gracie's Carrot Cake</title>
 <link>/gracies.carrot.cake.html</link>
@@ -50,21 +55,6 @@
 <title>A Bit About Myself</title>
 <link>/A_Bit_About_Myself.html</link>
 <pubDate>Sat, 28 Jun 2025 00:00:00 -0500</pubDate>
-</item>
- <item>
-<title>Hello World.sync-conflict-20251110-215710-ZVR65MC</title>
-<link>/helloWorld.sync-conflict-20251110-215710-ZVR65MC.html</link>
-<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
-</item>
- <item>
-<title>Hello World.sync-conflict-20251110-135716-ZVR65MC</title>
-<link>/helloWorld.sync-conflict-20251110-135716-ZVR65MC.html</link>
-<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
-</item>
- <item>
-<title>Hello World.sync-conflict-20251110-135707-ZVR65MC</title>
-<link>/helloWorld.sync-conflict-20251110-135707-ZVR65MC.html</link>
-<pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
 </item>
  <item>
 <title>Hello World</title>
