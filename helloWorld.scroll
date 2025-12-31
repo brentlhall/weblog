@@ -1,9 +1,9 @@
 date 6-22-2025
 title Hello World
-tags All
+tags All Mine
 singleHeader.scroll
-mediumColumn
-center
+thinColumn
+
 This is my first article in this blog. This is my second attempt at blogging with Scroll.
 endSnippet
 My first attempt was less than productive mainly because I attempted to take a short cut by copying from an existing scroll to create a template.

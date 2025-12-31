@@ -6,6 +6,16 @@ Brent Hall's Blog
 =================
 September 14, 2025
 
+A New Keyboard for Christmas
+============================
+12/30/2025
+/keyboard.html
+
+Daily_20251229
+==============
+12/29/2025
+/daily_20251229.html
+
 It Happened Again
 =================
 12/28/2025
@@ -71,7 +81,8 @@ To Whom It May Concern
 09/14/2015
 /To_Whom_It_May_Concern.html
 Questions or Comments?
-Email me	brentlhall@gmail.com 
+Email me	 
+ brentlhall@gmail.com Email
 Follow me on X	
  https://x.com/brentlhall Follow me on X
 Built with Scroll

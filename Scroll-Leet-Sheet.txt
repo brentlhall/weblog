@@ -234,7 +234,8 @@ wideColumns - Wide columns.
 y= - Generate tabular dataset from equation.
 youtube - A YouTube video widget.
 Questions or Comments?
-Email me	brentlhall@gmail.com 
+Email me	 
+ brentlhall@gmail.com Email
 Follow me on X	
  https://x.com/brentlhall Follow me on X
 Built with Scroll
