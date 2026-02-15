@@ -6,6 +6,11 @@ Brent Hall's Blog
 =================
 September 14, 2025
 
+We as Computer
+==============
+02/13/2026
+/We_as_Computer.html
+
 Daily_12-31-2025
 ================
 12/31/2025
@@ -76,18 +81,32 @@ Hello World
 06/22/2025
 /helloWorld.html
 
+I Am
+====
+03/13/2023
+/i_am.html
+
+Not to Self
+===========
+02/28/2023
+/note_to_self.html
+
 Why I Want to Write
 ===================
 02/25/2023
 /Why-I_Want_to_Write.html
+
+If Our Solution
+===============
+05/15/2022
+/if_our_solution.html
 
 To Whom It May Concern
 ======================
 09/14/2015
 /To_Whom_It_May_Concern.html
 Questions or Comments?
-Email me	 
- brentlhall@gmail.com Email
+brentlhall@gmail.com Email me
 Follow me on X	
  https://x.com/brentlhall Follow me on X
 Built with Scroll
