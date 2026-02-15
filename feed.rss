@@ -4,8 +4,13 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Wed, 31 Dec 2025 17:11:14 -0600</lastBuildDate>
+ <lastBuildDate>Sun, 15 Feb 2026 16:00:54 -0600</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>We as Computer</title>
+<link>/We_as_Computer.html</link>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0600</pubDate>
+</item>
  <item>
 <title>Daily_12-31-2025</title>
 <link>/Daily_12-31-2025.html</link>
@@ -77,9 +82,24 @@
 <pubDate>Sun, 22 Jun 2025 00:00:00 -0500</pubDate>
 </item>
  <item>
+<title>I Am</title>
+<link>/i_am.html</link>
+<pubDate>Mon, 13 Mar 2023 00:00:00 -0500</pubDate>
+</item>
+ <item>
+<title>Not to Self</title>
+<link>/note_to_self.html</link>
+<pubDate>Tue, 28 Feb 2023 00:00:00 -0600</pubDate>
+</item>
+ <item>
 <title>Why I Want to Write</title>
 <link>/Why-I_Want_to_Write.html</link>
 <pubDate>Sat, 25 Feb 2023 00:00:00 -0600</pubDate>
+</item>
+ <item>
+<title>If Our Solution</title>
+<link>/if_our_solution.html</link>
+<pubDate>Sun, 15 May 2022 00:00:00 -0500</pubDate>
 </item>
  <item>
 <title>To Whom It May Concern</title>
