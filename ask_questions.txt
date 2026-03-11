@@ -11,7 +11,7 @@ Even if you end up using digital help, the best benefit is the conversation that
 ⁂
 
 Follow Me
- feed.rss Follow Me
+ https://rss.app/feeds/rJSR4fVcGDOEHzbd.xml Follow Me
  br
 Questions or Comments?
 Follow me on X	
