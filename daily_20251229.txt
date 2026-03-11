@@ -14,8 +14,12 @@ They enjoyed playing with their new things and we got to play along with them. A
 
 ⁂
 
+Follow Me
+ feed.rss Follow Me
+ br
 Questions or Comments?
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- Built with Scroll
+ br
+Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

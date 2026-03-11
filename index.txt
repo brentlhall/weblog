@@ -16,6 +16,11 @@ We as Computer
 02/13/2026
 /We_as_Computer.html
 
+Just Animals?
+=============
+01/15/2026
+/just_animals.html
+
 Daily_12-31-2025
 ================
 12/31/2025
@@ -110,8 +115,12 @@ To Whom It May Concern
 ======================
 09/14/2015
 /To_Whom_It_May_Concern.html
+Follow Me
+ feed.rss Follow Me
+ br
 Questions or Comments?
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- Built with Scroll
+ br
+Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

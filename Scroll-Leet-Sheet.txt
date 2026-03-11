@@ -233,10 +233,12 @@ wideColumn - A wide column section.
 wideColumns - Wide columns.
 y= - Generate tabular dataset from equation.
 youtube - A YouTube video widget.
+Follow Me
+ feed.rss Follow Me
+ br
 Questions or Comments?
-Email me	 
- brentlhall@gmail.com Email
 Follow me on X	
  https://x.com/brentlhall Follow me on X
+ br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

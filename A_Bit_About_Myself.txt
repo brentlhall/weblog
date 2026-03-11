@@ -13,8 +13,12 @@ I'll probably have more on this subject in the future.
 Take care and enjoy living no matter what. It's got to be better than the flip-side!
 ⁂
 
+Follow Me
+ feed.rss Follow Me
+ br
 Questions or Comments?
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- Built with Scroll
+ br
+Built with Scroll
  https://github.com/breck7/scroll Built with Scroll
