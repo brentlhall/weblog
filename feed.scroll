@@ -1,2 +1,6 @@
-buildRss
+buildRss feed.xml
+description Thoughts, Ideas, and Observations
+title Brent Hall's Blog
+
+settings.scroll
 printFeed All

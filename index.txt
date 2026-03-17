@@ -116,7 +116,7 @@ To Whom It May Concern
 09/14/2015
 /To_Whom_It_May_Concern.html
 Follow Me
- https://rss.app/feeds/rJSR4fVcGDOEHzbd.xml Follow Me
+ https://brentlhall.github.io/weblog/feed.xml Follow Me
  br
 Questions or Comments?
 Follow me on X	
