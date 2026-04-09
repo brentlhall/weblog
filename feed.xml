@@ -4,8 +4,13 @@
  <title>Brent Hall's Blog</title>
  <link>https://brentlhall.github.io/weblog/</link>
  <description>Thoughts, Ideas, and Observations</description>
- <lastBuildDate>Tue, 17 Mar 2026 14:11:02 -0500</lastBuildDate>
+ <lastBuildDate>Wed, 08 Apr 2026 18:17:40 -0500</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Writing from my phone</title>
+<link>/writing-to-blog.html</link>
+<pubDate>Tue, 07 Apr 2026 00:00:00 -0500</pubDate>
+</item>
  <item>
 <title>Ask Questions</title>
 <link>/ask_questions.html</link>
@@ -97,7 +102,7 @@
 <pubDate>Mon, 13 Mar 2023 00:00:00 -0500</pubDate>
 </item>
  <item>
-<title>Not to Self</title>
+<title>Note to Self</title>
 <link>/note_to_self.html</link>
 <pubDate>Tue, 28 Feb 2023 00:00:00 -0600</pubDate>
 </item>

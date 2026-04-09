@@ -1,7 +1,3 @@
-Scroll Leet Sheet
-=================
-July 3, 2025
-
 - - A list item.
 --- - A horizontal rule.
 ! - Counterpoint comment. Prints nothing.
