@@ -1,6 +1,8 @@
-Daily_12-31-2025
+daily_12-31-2025
 ================
 December 31, 2025
+
+#daily #history
 
 Happy New Years!
 *
@@ -22,12 +24,11 @@ It's so wonderful to have them visit us!
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

@@ -2,6 +2,8 @@ A Bit About Myself
 ==================
 June 28, 2025
 
+#mine #myself
+
 [Image Omitted]
  Union Station, Thanksgiving, Kansas City, MO
 For what it's worth, my wife and I are in our 70's and retired. 
@@ -19,12 +21,11 @@ Take care and enjoy living no matter what. It's got to be better than the flip-s
  Gracie and I, Thanksgiving 2025 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

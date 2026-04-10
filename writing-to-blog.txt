@@ -2,6 +2,8 @@ Writing from my phone
 =====================
 April 7, 2026
 
+#mine #learn #thought
+
 I'm writing this post to this blog using my phone. 
 *
 I'm doing this to show that expensive hardware is not needed to converse on the web.
@@ -14,12 +16,11 @@ This is the first time I've tried this. I think it's gone amazingly well!
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

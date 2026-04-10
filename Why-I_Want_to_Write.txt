@@ -2,6 +2,8 @@ Why I Want to Write
 ===================
 February 25, 2023
 
+#mine #write #memory
+
 I started reading when I was very young. My mother helped me learn to read to help me live with the breathing ailment I'd had since birth. I spent many evenings sitting with her at the kitchen table listening to her read and following the words in the book.
 *
 Evenings were generally hard for me. Humidity tended to rise as evening approached and my breathing got worse.
@@ -12,12 +14,11 @@ So, in a nut shell, I've always wanted to share my imagination, too. Put my thou
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

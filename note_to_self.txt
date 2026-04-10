@@ -2,6 +2,8 @@ Note to Self
 ============
 February 28, 2023
 
+#mine #write
+
 Only you know what you experience.
 *
 If you don’t record it, it didn’t happen.
@@ -12,12 +14,11 @@ Write it down!
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

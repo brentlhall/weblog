@@ -2,6 +2,8 @@ Hello World
 ===========
 June 22, 2025
 
+#hello #scroll
+
 This is my first article in this blog. This is my second attempt at blogging with Scroll.
 My first attempt was less than productive mainly because I attempted to take a short cut by copying from an existing scroll to create a template.
 To say the least, it didn't work and I deleted it.
@@ -11,12 +13,11 @@ I'm exited to learn more and build the habit of writing in scroll.
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

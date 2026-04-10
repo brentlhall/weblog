@@ -2,6 +2,8 @@ I Am
 ====
 March 13, 2023
 
+#mine 
+
 I am 70 plus years old.
 *
 
@@ -19,12 +21,11 @@ I am 70 plus years old. I plan to live at least until I don’t. I am thankful f
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

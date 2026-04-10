@@ -2,6 +2,8 @@ News, an observation
 ====================
 September 7, 2025
 
+#mine #news
+
 My simplest definition of "News" is, the who, what, when something the public should know about happened.
 The "News", now, is the above  followed by opinions of the journalist, and anyone the journalist can corner plus endless speculation by both. Speculation is not and will never be "News"!
 *
@@ -12,12 +14,11 @@ The "News" has now become a product hoping to attract organizations to purchase 
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

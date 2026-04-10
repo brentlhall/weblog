@@ -2,6 +2,8 @@ It Happened Again
 =================
 December 28, 2025
 
+#mine #trial #curiosity
+
 It's happened in the past and it happened again.
 *
 First I go for an extened period with out writing much of anything.
@@ -18,12 +20,11 @@ Hopefully I'll continue writing something here more frequently!
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

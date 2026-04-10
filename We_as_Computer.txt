@@ -2,6 +2,8 @@ We as Computer
 ==============
 February 13, 2026
 
+#mine #thought 
+
 With all the hype about LLMs marketed as AIs, why do we continue to overlook the obvious?
 *
 Douglas Adams has suggested, in one of his works of fiction, that Earth was constructed to be a massive computing device. Not a mechanical or digital computer but a biological computer to answer the question of the meaning of life.
@@ -20,12 +22,11 @@ Lets talk about it and share our thoughts with all others we make contact with. 
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

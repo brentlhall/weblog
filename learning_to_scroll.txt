@@ -2,6 +2,8 @@ Learning to Scroll
 ==================
 August 31, 2025
 
+#mine #learning #ideas
+
 After looking for something to replace Scroll with out much luck, I've decided to continue using scroll to publish to my GitHub blog.
 *
 Now I'm trying to build the ability to write using my phone and Simple Text editor. I'm also practicing using Gboard in landscape mode with the split keyboard. I think I 
@@ -13,12 +15,11 @@ BLH
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll

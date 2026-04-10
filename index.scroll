@@ -4,9 +4,10 @@ printTitle
 center
 <hr>
 <nav>
-  <a href="./A_Bit_About_Myself.html">About me</a> | 
-  <a href="#services">Services</a> | 
-  <a href="#contact">Contact</a>
+  | <a href="A_Bit_About_Myself.html">About me</a> | 
+  <a href="about-site.html">About This Site</a> | 
+  <a href="contact.html">Let's Talk</a> |
+  <a href="links.html">Links I use</a> |
 </nav>
 <hr>
 gazette.css

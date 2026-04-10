@@ -2,13 +2,14 @@ date 06-28-2025
 title A Bit About Myself
 authors Brent L Hall
 tags All Mine
-container 300px
+container 500px
 
 singleHeader.scroll
 mediumColumn
+#mine #myself
 
 me.20251126.jpg
- caption Union Station, Thanksgiving 2025, Kansas City, MO
+ caption Union Station, Thanksgiving, Kansas City, MO
 For what it's worth, my wife and I are in our 70's and retired. 
 endSnippet
 ***

@@ -2,6 +2,8 @@ A New Keyboard for Christmas
 ============================
 December 30, 2025
 
+#mine #thanks
+
 Sometimes you just need a keyoard to write on your phone!
 When that happens you simply have to keep trying keyboards until you find the one that works as you wish it should.
 *
@@ -11,12 +13,11 @@ Thanks Chris, Meghan and your four daughters for this keyboard!
 
 ⁂
 
-Follow Me
- https://brentlhall.github.io/weblog/feed.xml Follow Me
- br
-Questions or Comments?
+Follow Me  
+ https://github.com/brentlhall/weblog/feed.xml Follow Me
+Let's Talk
+ /contact.html Let's Talk
 Follow me on X	
  https://x.com/brentlhall Follow me on X
- br
 Built with Scroll
  https://github.com/breck7/scroll Built with Scroll
