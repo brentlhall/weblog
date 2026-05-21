@@ -3,6 +3,11 @@ Brent Hall's Blog
 Thoughts, Ideas, and Observations
 =================================
 
+Who, What, When, Where
+======================
+05/21/2026
+/who.html
+
 Writing from my phone
 =====================
 04/07/2026
@@ -67,6 +72,11 @@ Learning to Scroll
 ==================
 08/31/2025
 /learning_to_scroll.html
+
+Learning to Scroll
+==================
+08/31/2025
+/learning_to_scoll.html
 
 Daily_20250701
 ==============
